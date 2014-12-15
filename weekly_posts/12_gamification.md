@@ -4,4 +4,4 @@ According to Benkler and Nissenbaum, the users of SETI@Home are mostly driven by
 
 I think, however, that automation is a primary component for each one of these examples of collective endeavor. It is the crucial condition for their ultimate appeal – a transparent quantification of labor. I have been fiddling with GitHub for less than a week now, but I already know for certain that the “contributions” table at the center of my personal page is already my favorite feature. At the end of each  session, when I commit and push my daily activity into one of my repositories,  one small square has lit up in green: the more intense its hue, the more the work that I have done. It is at the same time an immediate gratification and a reminder of the work that still needs to be done. It is a completion bar, of the sort found in video games, crowdfunding pages, educational apps, and in the screensaver through which SETI@Home elaborates its data.
 
-!(SETI@Home's Completion Bar)[http://seticlassic.ssl.berkeley.edu/screensaver/images/data_analysis2-2.0.gif]
+![SETI@Home's Completion Bar](http://seticlassic.ssl.berkeley.edu/screensaver/images/data_analysis2-2.0.gif)
